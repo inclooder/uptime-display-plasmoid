@@ -1,4 +1,4 @@
-# uptime-display
+# uptime-display-plasmoid
 
 ## What is this?
 
